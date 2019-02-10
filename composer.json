@@ -1,0 +1,7 @@
+{
+    "name": "meann/emet",
+    "description": "Admin Panel for MRS",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
